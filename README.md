@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+The Decentralized Fund Disbursal System Using IPFS is a secure, transparent, and trustless platform built to automate the distribution of funds using blockchain technology. This system ensures that funds are disbursed only when pre-defined conditions are met, removing the need for intermediaries or centralized control.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+The application is built with React for the frontend, offering a responsive and user-friendly interface, and smart contracts on the blockchain to handle the logic of fund disbursal.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+IPFS is used to store essential supporting documents (e.g., proof of eligibility, reports, receipts) in a decentralized manner. This ensures that all data remains tamper-proof, accessible, and censorship-resistant.
